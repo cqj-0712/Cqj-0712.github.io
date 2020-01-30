@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff3c;
+  background: #dd0fb3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,4 +2659,17 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: url("http://img.zcool.cn/community/01cbfc59b63fe4a8012028a9c1bd8a.png@1280w_1l_2o_100sh.png");
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-color: #000;
+}
+.header-inner {
+  opacity: 0.8;
+}
+.main-inner {
+  opacity: 0.8;
 }
